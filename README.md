@@ -9,7 +9,7 @@
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
-
+![](https://github.com/Dun9Dev/teamcity-hw/blob/main/img/Screenshot_7.png)
 ## Основная часть
 
 1. Создайте новый проект в teamcity на основе fork.
